@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=muthuramanataya)
 
 ![Muthuraman's GitHub stats](https://github-readme-stats.vercel.app/api?username=muthuramanataya&show_icons=true&theme=merko)
 
