@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Muthuraman's GitHub stats](https://github-readme-stats.vercel.app/api?username=muthuramanataya&show_icons=true&theme=dark)
+![Muthuraman's GitHub stats](https://github-readme-stats.vercel.app/api?username=muthuramanataya&show_icons=true&theme=merko)
 
 - 🔭 I’m currently working on 5GC NF UPF Design and Implementation and also other NFs.
